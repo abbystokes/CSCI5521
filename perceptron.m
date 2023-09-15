@@ -1,6 +1,6 @@
 
 % Perceptron function 
-
+ 
 
 function [w] = perceptron(X,Y,w_init,rate)
 
